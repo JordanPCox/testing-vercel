@@ -2,7 +2,7 @@
   "name": "testing-vercel",
   "version": "1.0.0",
   "engines": {
-    "node": "20.9.0"
+    "node": "18.x"
   },
   "description": "First Vercel deployment.",
   "main": "server.js",
